@@ -1,9 +1,9 @@
 # Site settings
 title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: xuefeng的博客 | xuefeng Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: zhaoxuefeng1990@gmail.com
+description: "生如夏花般绚烂"
 keyword: ""
 url: "http://huangxuan.me"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     blur_Er
+zhihu_username:     YUKI
+github_username:    amberZ1990
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -82,19 +82,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "Foo Blog",
+        href: "http://foo.github.io/"
+    },
+    {
+        title: "Bar Blog",
+        href: "http://bar.github.io"
     }
 ]

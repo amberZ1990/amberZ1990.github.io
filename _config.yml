@@ -6,7 +6,7 @@ email: zhaoxuefeng0708@gmail.com
 description: ""
 keyword: ""
 url: "https://github.com/"              # your host, for absolute URL
-#baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 #baseurl: "http://localhost:3000/"
 

@@ -1,22 +1,22 @@
 # Site settings
-title: Amber zhao
+title: Code Box
 SEOTitle: Amber zhao | 1943
 header-img: img/home-bg.jpg
 email: zhaoxuefeng0708@gmail.com
 description: ""
 keyword: ""
-url: "https://amberz1990.github.io/"              # your host, for absolute URL
+url: "https://github.com/"              # your host, for absolute URL
 #baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
-
+#baseurl: "http://localhost:3000/"
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+#weibo_username:     huxpro
+github_username:    amberZ1990
+zhihu_username:     amberZ1990
+twitter_username:  amberZ1990
+#facebook_username:  amberZ1990
 
 
 
@@ -68,7 +68,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "沙司和土豆的冬天"
+sidebar-about-description: " 没什么可以介绍的"
 sidebar-avatar: /img/amber.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -80,26 +80,26 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# friends: [
+#     {
+#         title: "Hux Blog",
+#         href: "http://huangxuan.me"
+#     },{
+#         title: "Foo",
+#         href: "#"
+#     },{
+#         title: "Bar",
+#         href: "#"
+#     },{
+#         title: "Example Friends",
+#         href: "#"
+#     },{
+#         title: "It helps SEO",
+#         href: "#"
+#     }
+# ]
 
 
 
 
-port: 5000
+port: 3000

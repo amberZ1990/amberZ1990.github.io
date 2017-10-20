@@ -1,14 +1,14 @@
 # Site settings
-title: Code Box
+title: Amber's Page
 SEOTitle: Amber zhao | 1943
 header-img: img/home-bg.jpg
 email: zhaoxuefeng0708@gmail.com
 description: ""
 keyword: ""
 url: "https://github.com/"              # your host, for absolute URL
-baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
+#baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
-#baseurl: "http://localhost:3000/"
+#baseurl: "http://127.0.0.1:3000/"
 
 # SNS settings
 RSS: false
@@ -50,9 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -68,8 +68,8 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: " 没什么可以介绍的"
-sidebar-avatar: https://github.com/amberZ1990/amberZ1990.github.io/blob/master/img/amber.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: " 今天阳光正好"
+sidebar-avatar: http://127.0.0.1:3000/img/amber.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -102,4 +102,4 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 
-#port: 3000
+port: 3000

@@ -14,16 +14,18 @@ tags:
 
 今天同事让我解决一个问题，正好也算自己的积累，就把它写下来了。<br><br>
 >  实现随着页面的滚动切换到对应的导航
+    [预览效果](https://amberz1990.github.io/demos/navScroll.html)
 
 主要的js代码如下：
 ```js
-  var $navs = $('.nav a'),          // 导航
-    $sections = $('.section'),       // 模块
+    var $navs = $('.nav a'),          
+    $sections = $('.section'),       
     $window = $(window),
-    navLength = $navs.length - 1;   //5
+    navLength = $navs.length - 1;   
+
   $window.on('scroll', function() {
     var scrollTop = $window.scrollTop(),
-      len = navLength;
+    len = navLength;
     for (; len > -1; len--) {
       var that = $sections.eq(len);
       if (scrollTop >= that.offset().top) {
@@ -32,6 +34,7 @@ tags:
       }
     }
   });
+  
   $navs.on('click', function(e) {
     e.preventDefault();
     $('html, body').animate({

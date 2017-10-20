@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhaoxuefeng0708@gmail.com
 description: ""
 keyword: ""
-url: "https://github.com/"              # your host, for absolute URL
+url: "https://amberz1990.github.io/"              # your host, for absolute URL
 #baseurl: "https://amberz1990.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 baseurl: ""
@@ -77,7 +77,9 @@ sidebar-avatar: /img/amber.jpg      # use absolute URL, seeing it's used in both
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
-
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
 
 # Friends
 # friends: [

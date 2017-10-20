@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Welcome to Amber's page"
-#subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   'about jekyll'
 date:       2017-10-20
 author:     "Amber"
 header-img: "img/post-bg-2015.jpg"

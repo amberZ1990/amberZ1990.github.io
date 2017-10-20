@@ -42,8 +42,8 @@ ssl verification error at depth 1:unable to get local issuer certificate  you mu
 * 命令行报错提示缺少build tools，去下载并安装Devkit
 >这个问题我记录在了知乎[`点击这里`](https://www.zhihu.com/question/66452718/answer/242828351)
 <br>
-* Devkit配置文件里修改绑定的ruby的路径，配置文件的书写格式是，注意是有空格滴~~~~
+* Devkit配置文件里修改绑定的ruby的路径，配置文件的书写格式是，注意是有空格滴
 ```
-  ---
-  - C:\Ruby23-x64_1
+  $---
+  $ - C:\Ruby23-x64_1
 ```

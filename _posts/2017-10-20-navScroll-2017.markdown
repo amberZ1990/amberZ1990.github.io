@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Welcome to Amber's page"
+title:      "Demos"
 subtitle:   '定位导航demo'
 iframe:     "https://amberz1990.github.io/demos/navScroll.html"
 date:       2017-10-20
 author:     "Amber"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2017-2.jpg"
 tags:
     - 前端开发
 ---
@@ -34,7 +34,7 @@ tags:
       }
     }
   });
-  
+
   $navs.on('click', function(e) {
     e.preventDefault();
     $('html, body').animate({

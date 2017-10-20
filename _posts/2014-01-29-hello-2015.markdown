@@ -19,8 +19,12 @@ tags:
 
 * 关于 Windows 下证书无法验证问题 (certificate verify failed)
 > ruby 没有包含 SSL 证书，所以 https 的链接被服务器拒绝。<br><br>
-解决方法很简单，首先在这里下载证书 [`http://curl.haxx.se/ca/cacert.pem`](ttp://curl.haxx.se/ca/cacert.pem), 然后再`环境变量`里设置 `SSL_CERT_FILE `这个环境变量，并指向 cacert.pem 文件 `SSL_CERT_FILE=C:\path\to\cacert.pem`,<br><br>
-end
+解决方法很简单，首先在这里下载证书 [http://curl.haxx.se/ca/cacert.pem](ttp://curl.haxx.se/ca/cacert.pem), 然后再`环境变量`里设置 `SSL_CERT_FILE `这个环境变量，并指向 cacert.pem 文件
+<br>
+```
+SSL_CERT_FILE=C:\path\to\cacert.pem
+```
+原文地址 [https://github.com/ruby-china/rubygems-mirror/wiki](https://github.com/ruby-china/rubygems-mirror/wiki)
 * RubyGems安装
 >首先你需要一个vpn，update时需要用到  
 官网:[https://gems.ruby-china.org/](https://gems.ruby-china.org/)
@@ -36,14 +40,15 @@ https://gems.ruby-china.org
 
 * jekyll配置时 每一次gem install报错如下
 ```
-ssl verification error at depth 1:unable to get local issuer certificate  you must add /0=Digital Signature Trust Co./cn = DST Root CA X3 to your local trusted store
+ssl verification error at depth 1:unable to get local issuer certificate  
+you must add /0=Digital Signature Trust Co./cn = DST Root CA X3 to your local trusted store
 ```
-> 这个问题我记录在了知乎[`点击这里`](https://www.zhihu.com/question/66452718/answer/242828351)
+> 这个问题我记录在了知乎[点击这里](https://www.zhihu.com/question/66452718/answer/242828351)
 * 命令行报错提示缺少build tools，去下载并安装Devkit
->这个问题我记录在了知乎[`点击这里`](https://www.zhihu.com/question/66452718/answer/242828351)
+>这个问题我记录在了知乎[点击这里](https://www.zhihu.com/question/66452718/answer/242828351)
 <br>
 * Devkit配置文件里修改绑定的ruby的路径，配置文件的书写格式是，注意是有空格滴
-```
+>```
   $---
   $ - C:\Ruby23-x64_1
 ```

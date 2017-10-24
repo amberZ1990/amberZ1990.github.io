@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Welcome to Amber's page"
-subtitle:   'about jekyll'
+title:      "jekyll for window"
+subtitle:   ''
 date:       2017-10-20
 author:     "Amber"
 header-img: "img/post-bg-2017.jpg"
 tags:
-    - jekyll for window
+    - jekyll
     - 前端开发
 ---
 

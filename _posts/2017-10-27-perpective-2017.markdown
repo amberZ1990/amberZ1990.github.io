@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Demos2"
-subtitle:   'perpective'
+title:      "perspective"
+subtitle:   'css3'
 date:       2017-10-27
 author:     "Amber"
 header-img: "img/post-bg-2017-2.jpg"
@@ -10,5 +10,11 @@ tags:
 ---
 >effect
 
-[https://amberz1990.github.io/demos/perspective.html](https://amberz1990.github.io/demos/perspective.html)
+浏览器支持:
 
+目前浏览器都不支持 perspective 属性。
+Chrome 和 Safari 支持替代的 -webkit-perspective 属性。
+
+*时间仓促，只利用 perspective做了一个小效果~首次加载背景有点慢~后续我会做处理，移动浏览 注意流量~*
+
+[https://amberz1990.github.io/demos/perspective.html](https://amberz1990.github.io/demos/perspective.html)

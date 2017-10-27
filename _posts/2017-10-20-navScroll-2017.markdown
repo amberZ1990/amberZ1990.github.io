@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Demos1"
-subtitle:   'auto nav'
+title:      "auto nav"
+subtitle:   'for循环'
 date:       2017-10-20
 author:     "Amber"
 header-img: "img/post-bg-2017-2.jpg"

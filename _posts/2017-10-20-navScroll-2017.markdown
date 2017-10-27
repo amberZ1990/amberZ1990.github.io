@@ -1,45 +1,13 @@
 ---
 layout:     post
-title:      "Demos_2017"
-subtitle:   '定位导航demo'
-iframe:     "https://amberz1990.github.io/demos/navScroll.html"
+title:      "Demos1"
+subtitle:   'auto nav'
 date:       2017-10-20
 author:     "Amber"
 header-img: "img/post-bg-2017-2.jpg"
 tags:
     - 前端开发
 ---
+>effect
 
-> “code here”
-
-今天同事让我解决一个问题，正好也算自己的积累，就把它写下来了。<br><br>
->  实现随着页面的滚动切换到对应的导航
-    [预览效果](https://amberz1990.github.io/demos/navScroll.html)
-
-主要的js代码如下：
-```js
-    var $navs = $('.nav a'),          
-    $sections = $('.section'),       
-    $window = $(window),
-    navLength = $navs.length - 1;   
-
-  $window.on('scroll', function() {
-    var scrollTop = $window.scrollTop(),
-    len = navLength;
-    for (; len > -1; len--) {
-      var that = $sections.eq(len);
-      if (scrollTop >= that.offset().top) {
-         $navs.removeClass('current').eq(len).addClass('current');
-         break;
-      }
-    }
-  });
-
-  $navs.on('click', function(e) {
-    e.preventDefault();
-    $('html, body').animate({
-      'scrollTop': $($(this).attr('href')).offset().top
-    }, 400);
-  });
-
-```
+[https://amberz1990.github.io/demos/navScroll.html](https://amberz1990.github.io/demos/navScroll.html)

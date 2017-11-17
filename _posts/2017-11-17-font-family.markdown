@@ -11,13 +11,15 @@ tags:
 >Font Family
 ## 关于字体
 
->使用哪种web字体这取决于: <br> 1. 你的产品要在哪个系统上运行<br> 2. 你的产品是纯英文还是中文英文甚至还有其他国家语言为什么这么
+
+* 使用哪种web字体这取决于: <br> 1. 你的产品要在哪个系统上运行<br> 2. 你的产品是纯英文还是中文英文甚至还有其他国家语言为什么这么
 说？
 
->字体一直都是让设计师和工程师头疼的问题。如果参与过产品的设计和开发，会发现经常有以下这种情况出现：<br> 1. 对比视觉稿和实现出来的网页，其他地方都很完美，就字体不给力。
+* 字体一直都是让设计师和工程师头疼的问题。如果参与过产品的设计和开发，会发现经常有以下这种情况出现：<br> 1. 对比视觉稿和实现出来的网页，其他地方都很完美，就字体不给力。
 <br> 2. 在 Mac 上很好看，在 Windows 上丑的要死；iPhone 和 Android 又不同……为什么？
 
->真正的幕后黑手是系统。浏览器使用哪种字体取决于：<br>
+
+* 真正的幕后黑手是系统。浏览器使用哪种字体取决于：<br>
 1. 你的系统安装了哪些字体（我原来以为浏览器自己也会带字体，这是错误的，感谢知友的提醒）<br> 
 2. 工程师有没有让用户去下载其他字体看看知乎专栏和苹果官网在网页中使用了哪些字体：<br> 
 知乎专栏：'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif<br> 
@@ -27,7 +29,8 @@ tags:
 有人会问，为什么不自己带脉动？沉啊。对于网站来说，下载个字体还是要费很大劲的。英文字体 26个大写+26个小写+标点符号不是
 很多，但中文汉字的数量…… 所以很少有网站会去让用户去下载中文字体的。<br> 
 
->最优解：你可以使用多种字体，看一下在每种字体上的效果。把效果最好的字体放在最前面，在后面多加几个后备军。例如Open Sans 的中文字体在 Mac 上效果不错。微软雅黑的中文字体在 Windows 上效果不错<br>
+
+* 最优解：你可以使用多种字体，看一下在每种字体上的效果。把效果最好的字体放在最前面，在后面多加几个后备军。例如Open Sans 的中文字体在 Mac 上效果不错。微软雅黑的中文字体在 Windows 上效果不错<br>
 
 <a style="color:#999;font-size:12px;">
         来源：知乎https://www.zhihu.com/question/19680724/answer/18246488</a>        
@@ -57,3 +60,5 @@ tags:
 |小桔科技某H5|-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,'Nimbus Sans L',Arial,'Liberation Sans','Hiragino Sans GB','Source Han Sans CN Normal','Microsoft YaHei','微软雅黑','Wenquanyi Micro Hei','WenQuanYi Zen Hei','ST Heiti',SimHei,'WenQuanYi Zen Hei Sharp',sans-serif
 |大自然保护协会 M端(pc端使用inherit)|"din","Hiragino Sans GB","Helvetica","Microsoft YaHei","微软雅黑","宋体"
 |大神字体|-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif
+
+整理 <sub>by</sub> 赵雪峰

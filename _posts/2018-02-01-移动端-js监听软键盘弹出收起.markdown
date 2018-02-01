@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "js-mobile"
+subtitle:   ''
+date:       2018-02-01
+author:     "Amber"
+header-img: "img/6.jpg"
+tags:
+    - js
+    - 前端开发
+---
+
+### “H5页面显示兼容android之软件盘弹起”
+
+>做H5表单的时，input focus后键盘弹起，在android中，如footer有fixed，会被顶到键盘上，遮挡表单，，以下是我的解决方案，已经测试过了，作为记录。（在需求讨论时，不建议出现类似布局）
+
+```js
+var winHeight = $(window).height();   //获取当前页面高度
+$(window).resize(function(){  //IOS 没有此事件
+   var _thisHeight=$(this).height();
+    if(winHeight - thisHeight >50){
+         //软键盘弹起
+    }else{
+        //软键盘收起
+    }
+});
+```
+>H5页面布局中，会用到的系统检测代码
+```js
+//判断android系统 
+    var u = navigator.userAgent, app = navigator.appVersion;
+    var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+    var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+    if (isAndroid) {
+        \\ 代码段
+    });
+    if (isIOS) {
+        \\ 代码段
+    });
+    
+```

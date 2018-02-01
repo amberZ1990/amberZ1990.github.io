@@ -15,6 +15,9 @@ tags:
 >做H5表单的时，input focus后键盘弹起，在android中，如footer有fixed，会被顶到键盘上，遮挡表单，，以下是我的解决方案，已经测试过了，作为记录。（在需求讨论时，不建议出现类似布局）
 
 ```js
+//弹出软键盘时：
+//ios端$('body').scrollTop()会改变
+//android端$(window).height()会改变
 var winHeight = $(window).height();   //获取当前页面高度
 $(window).resize(function(){  //IOS 没有此事件
    var _thisHeight=$(this).height();

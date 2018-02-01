@@ -36,10 +36,10 @@ $(window).resize(function(){  //IOS 没有此事件
     var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
     var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
     if (isAndroid) {
-        \\ 代码段
+        // 代码段
     });
     if (isIOS) {
-        \\ 代码段
+        // 代码段
     });
-        
+
 ```

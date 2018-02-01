@@ -22,11 +22,15 @@ $(window).resize(function(){  //IOS 没有此事件
          //软键盘弹起
     }else{
         //软键盘收起
-    }
+  }
 });
+
 ```
+
 >H5页面布局中，会用到的系统检测代码
+
 ```js
+
 //判断android系统 
     var u = navigator.userAgent, app = navigator.appVersion;
     var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
@@ -37,5 +41,5 @@ $(window).resize(function(){  //IOS 没有此事件
     if (isIOS) {
         \\ 代码段
     });
-    
+        
 ```

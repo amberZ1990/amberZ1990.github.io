@@ -7,11 +7,11 @@ author:     "Amber"
 header-img: "img/post-bg-2017.jpg"
 tags:
     - resume
+
 ---
+>简历
 
-# <center>简历</center >
-
-## <center> 个人信息</center >
+# <center> 个人信息</center >
     姓名：赵雪峰
     性别：女
     年龄：28
@@ -20,7 +20,7 @@ tags:
     婚姻状况：已婚
     学历：大专
 
-## <center> 求职目标</center >
+# <center> 求职目标</center >
     求职岗位：前端开发工程师
     期望薪资：面议
     工作地点：北京
@@ -38,7 +38,7 @@ tags:
 - 具有一定的英文文档阅读能力；
 - 有驾照，会驾驶；
 - 可接受短期出差。
-## <center> 工作经历</center >
+# <center> 工作经历</center >
 
  > **2015-至今**
  
@@ -61,7 +61,7 @@ tags:
 
  工作职责：参与项目的开发
 
-> **2013-2014**
+>  **2013-2014**
 
 公司名称：上海仲望企业管理咨询有限公司
 
@@ -69,28 +69,31 @@ tags:
 
 工作职责：IT行业优秀人员的筛选及推荐
 
-## <center>项目经验（部分）</center>
+# <center>项目经验（部分）</center>
 
 >PC站+H5站
 *(移动设备可直接访问)*
+
 - [WOT峰会官网](http://wot.51cto.com/act/wot2018/dev/)
 - [CTO俱乐部官网](http://club.51cto.com/act/cto/caff)
 - [信息化大会](http://www.hc3i.cn/act/zhuanti/2018WEST)
 
-> 响应式站
-- [态牛](http://tn.51cto.com/)
+> 响应式 
+-  [态牛](http://tn.51cto.com/)
 
->小程序: ![技术共享小程序](https://s2.51cto.com/oss/201801/22/fe6d450409ee14024a775aa968e88755.png)
+>小程序: 
+-  ![技术共享小程序](https://s2.51cto.com/oss/201801/22/fe6d450409ee14024a775aa968e88755.png)
 【技术PPT共享】
 
->自己设计和制作的一个小活动页面(pc+H5):[抢元宵](http://frontend.51cto.com/index.php/special/test?id=2989)
-## <center>个人主页</center>
+>自己设计和制作的一个小活动页面(pc+H5): [抢元宵](http://frontend.51cto.com/index.php/special/test?id=2989)
+
+# <center>个人主页</center>
 
 >我的gitHub账号 [github](https://github.com/amberZ1990)
 
 >我的个人博客   [gitpage](https://amberz1990.github.io/)
 
-## <center> 教育经历</center>
+# <center> 教育经历</center>
 
 
     2017-至今 首都师范大学 日语 本科

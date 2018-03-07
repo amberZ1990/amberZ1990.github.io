@@ -11,7 +11,7 @@ tags:
 ---
 >简历
 
-## <center> 个人信息</center > ##
+### 个人信息 ###
     姓名：赵雪峰
     性别：女
     年龄：28
@@ -20,16 +20,16 @@ tags:
     婚姻状况：已婚
     学历：大专
 
-## <center> 联系方式</center > ##
+### 联系方式 ###
     tel:18600972590
     e-mail:<zhaoxuefeng0708@gmail.com>
 
-## <center> 求职目标</center > ##
+### 求职目标 ###
     求职岗位：前端开发工程师
     期望薪资：面议
     工作地点：北京
 
-## <center> 掌握技能/自我评价</center > ##
+### 掌握技能/自我评价 ###
 - 熟练掌握HTML5、css3、javascript并遵循W3C标准编码；
 - 熟练掌握Jquery，熟悉es6新特性；
 - 具有小程序开发经验；
@@ -42,7 +42,7 @@ tags:
 - 具有一定的英文文档阅读能力；
 - 有驾照，会驾驶；
 - 可接受短期出差。
-## <center> 工作经历</center > ##
+### 工作经历 ###
 
  > #### **2015-至今** ####
  
@@ -73,7 +73,7 @@ tags:
 
 工作职责：IT行业优秀人员的筛选及推荐
 
-## <center>项目经验（部分）</center> ##
+### 项目经验（部分）###
 
 > #### PC站+H5站 ####
 *(移动设备可直接访问)*
@@ -91,16 +91,16 @@ tags:
 ![技术共享小程序](https://s2.51cto.com/oss/201801/22/fe6d450409ee14024a775aa968e88755.png)
 
 
-> #### 自己设计和制作的一个小活动页面(pc+H5): #### 
-> [抢元宵](http://frontend.51cto.com/index.php/special/test?id=2989)
+> #### 自己设计和制作的一个小活动页面: #### 
+- [抢元宵](http://frontend.51cto.com/index.php/special/test?id=2989)
 
-# <center>个人主页</center> #
+### 个人主页 ###
 
->我的gitHub账号 [github](https://github.com/amberZ1990)
+>我的gitHub账号 [https://github.com/amberZ1990](https://github.com/amberZ1990)
 
->我的个人博客   [gitpage](https://amberz1990.github.io/)
+>我的个人博客   [https://amberz1990.github.io/](https://amberz1990.github.io/)
 
-# <center> 教育经历</center> #
+### 教育经历 ###
 
 
     2017-至今 首都师范大学 日语 本科

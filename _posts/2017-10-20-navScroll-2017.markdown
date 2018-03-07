@@ -4,7 +4,7 @@ title:      "auto nav"
 subtitle:   'for循环'
 date:       2017-10-20
 author:     "Amber"
-header-img: "img/post-bg-2017-2.jpg"
+header-img: "img/post-bg-2017.jpg"
 tags:
     - 前端开发
 ---

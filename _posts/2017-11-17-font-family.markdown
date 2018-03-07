@@ -4,7 +4,7 @@ title:      "Font Family"
 subtitle:   'web font'
 date:       2017-11-17
 author:     "Amber"
-header-img: "img/post-bg-2017-2.jpg"
+header-img: "img/post-bg-2017.jpg"
 tags:
     - 前端开发
 ---

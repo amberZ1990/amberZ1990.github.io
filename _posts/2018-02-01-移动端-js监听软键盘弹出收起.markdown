@@ -4,7 +4,7 @@ title:      "js-mobile"
 subtitle:   ''
 date:       2018-02-01
 author:     "Amber"
-header-img: "img/6.jpg"
+header-img: "img/post-bg-2017.jpg"
 tags:
     - js
     - 前端开发

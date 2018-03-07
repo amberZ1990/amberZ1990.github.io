@@ -4,7 +4,7 @@ title:      "resume"
 subtitle:   ''
 date:       2018-03-07
 author:     "Amber"
-header-img: "img/post-bg-2017-2.jpg"
+header-img: "img/post-bg-2017.jpg"
 tags:
     - resume
     - 期待更好的自己

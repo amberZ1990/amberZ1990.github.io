@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "js-mobile"
+subtitle:   ''
+date:       2018-02-01
+author:     "Amber"
+header-img: "img/post-bg-2017-2.jpg"
+tags:
+    - resume
+    - 期待更好的自己
+---
+
 # <center>简历</center >
 
 ## <center> 个人信息</center >

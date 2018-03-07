@@ -19,9 +19,11 @@ tags:
     现居住地：北京市房山区
     婚姻状况：已婚
     学历：大专
+
 # <center> 联系方式</center >
     tel:18600972590
     e-mail:zhaoxuefeng0708@gmail.com
+    
 # <center> 求职目标</center >
     求职岗位：前端开发工程师
     期望薪资：面议

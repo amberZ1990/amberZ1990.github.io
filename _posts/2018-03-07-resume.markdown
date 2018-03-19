@@ -44,26 +44,123 @@ tags:
 - 可接受短期出差。
 ### 工作经历 ###
 
- > #### **2015-至今** ####
+ > #### **2015.12-至今** ####
  
  公司名称：北京无忧创想信息技术有限公司（51CTO）
 
- 岗位：前端开发工程师
-
- 工作职责：
+ 岗位：前端开发
  
- - 新项目开发：开需求评审会议，提出有效的建议，开发过程中，衔接UI，与产品及开发人员沟通，确认不明确的需求，讨论遇到的技术问题并解决。
- - 旧项目维护：网站出现bug，第一时间进行修改完善；拿到产品的修改需求，积极响应，快速完成。
- - 商业专题制作：与业务部门快速沟通，快速制作专题，并根据客户要求快速进行修改，调整。
- - 页面设计：针对技术部自主项目，进行页面设计。
+ **负责项目一：“WOT峰会”pc官网**
+ 
+ 项目周期：2016.4-2016.11
 
+ 使用工具：Visual Studio、 Xampp、chrome、ps、AI
+
+ 使用技术：sass+compass 、Javascript、HTML5、css3、smarty、git
+
+ 兼容浏览器：safari/chrome/Firfox/oprea/IE7+
+
+ 主要工作职责：
+
+- 参加需求评审，协助产品、UI确定需求；
+- 使用sass+compass、HTML5+css3编写页面；
+- 使用javascript编写页面行为；
+- 使用AXAJ与后台进行数据交互；
+- 使用smarty语句编写php模板；
+- 页面兼容性调优；
+- 项目进入测试阶段后，对页面进行测试，及时调整代码，修改bug；
+
+ **负责项目二：“WOT峰会”H5站**
+ 
+ 项目周期：2016.11-2017.3
+
+ 使用工具：Visual Studio、 Xampp、chrome、ps、AI
+
+ 兼容系统：IOS、Android
+
+ 使用技术：sass+compass 、Javascript、HTML5、css3、smarty、SVG、canvas、iconfont、git
+
+ 主要工作职责：
+
+- 参加需求评审，协助产品、UI确定需求；
+- 使用sass+compass、HTML5+css3编写页面；
+- 使用javascript编写页面行为；
+- 使用AXAJ与后台进行数据交互；
+- 使用smarty语句编写php模板；
+- 编写css3动画、sbg动画及canvas画布丰富页面交互；
+- 测试不同手持设备系统的页面兼容性、例如android软键盘弹起后，会将固定定位元素顶起，解决方案已录入到自己的技术博客；
+- 协助产品使用ps、AI修改设计稿；
+- 使用git管理代码
+
+ **负责项目三：“技术PPT共享”微信小程序**
+ 
+ 项目周期：2017.7-2017.8
+
+ 使用工具：微信开发者工具
+
+ 使用技术：MVV、Javascript、git
+
+ 主要工作职责：
+
+- 参加需求评审，协助产品、UI确定需求；
+- 查阅官网文档，编写符合MVV模式的编码；
+- 使用小程序提供的接口，编写页面功能；
+- 项目进入测试阶段后，对页面进行测试，及时调整代码，修改bug；
+- 使用git管理代码
+
+ **负责项目四：“CTO俱乐部”pc官网**
+ 
+ 项目周期：2017.11-2018.1
+
+ 使用工具：Visual Studio、 Xampp、chrome、ps、AI
+
+ 使用技术：sass+compass 、Javascript、HTML5、css3、smarty、git
+
+ 兼容浏览器：safari/chrome/Firfox/oprea/IE7+
+
+ 主要工作职责：
+
+- 参加需求评审，协助产品、UI确定需求；
+- 使用sass+compass、HTML5+css3编写页面；
+- 使用javascript编写页面行为；
+- 使用AXAJ与后台进行数据交互；
+- 使用smarty语句编写php模板；
+- 页面兼容性调优；
+- 项目进入测试阶段后，对页面进行测试，及时调整代码，修改bug；
+
+ **负责项目五：“CTO俱乐部”H5站**
+ 
+ 项目周期：2018.1-2018.3
+
+ 使用工具：Visual Studio、 Xampp、chrome、ps、AI
+
+ 兼容系统：IOS、Android
+
+ 使用技术：sass+compass 、Javascript、HTML5、css3、smarty、SVG、canvas、iconfont、git
+
+ 主要工作职责：
+
+- 参加需求评审，协助产品、UI确定需求；
+- 使用sass+compass、HTML5+css3编写页面；
+- 使用javascript编写页面行为；
+- 使用AXAJ与后台进行数据交互；
+- 使用smarty语句编写php模板；
+- 编写css3动画、sbg动画及canvas画布丰富页面交互；
+- 测试不同手持设备系统的页面兼容性、例如android软键盘弹起后，会将固定定位元素顶起，解决方案已录入到自己的技术博客；
+- 协助产品使用ps、AI修改设计稿；
+- 使用git管理代码
 > #### **2014-2015** ####
 
  公司名称：北京瑞友科技有限公司
 
- 岗位：前端开发工程师
-
- 工作职责：参与项目的开发
+ 岗位：前端
+ 使用工具：ps、AI、DW、js
+ 工作职责：
+ 
+ - 按照产品需求及原型图完成设计稿
+ - 设计页面交互
+ - 使用div+css页面布局
+ - 使用js完成页面效果
 
 > #### **2013-2014** ####
 
@@ -73,26 +170,6 @@ tags:
 
 工作职责：IT行业优秀人员的筛选及推荐
 
-### 项目经验（部分）###
-
-> #### PC站+H5站 ####
-*(移动设备可直接访问)*
-
-- [WOT峰会官网](http://wot.51cto.com/act/wot2018/dev/)
-- [CTO俱乐部官网](http://club.51cto.com/act/cto/caff)
-- [信息化大会](http://www.hc3i.cn/act/zhuanti/2018WEST)
-
-> #### 响应式 ####
--  [态牛](http://tn.51cto.com/)
-
-> #### 小程序: ####
-> 【技术PPT共享】
-
-![技术共享小程序](https://s2.51cto.com/oss/201801/22/fe6d450409ee14024a775aa968e88755.png)
-
-
-> #### 自己设计和制作的一个小活动页面: #### 
-- [抢元宵](http://frontend.51cto.com/index.php/special/test?id=2989)
 
 ### 个人主页 ###
 

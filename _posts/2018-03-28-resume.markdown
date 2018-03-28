@@ -109,7 +109,7 @@ tags:
 
  使用工具：微信开发者工具
 
- 使用技术：MVV、Javascript、git
+ 使用技术：MVVM、Javascript、git
 
  主要工作职责：
 

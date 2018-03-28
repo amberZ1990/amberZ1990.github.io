@@ -2,7 +2,7 @@
 layout:     post
 title:      "resume"
 subtitle:   ''
-date:       2018-03-020
+date:       2018-03-28
 author:     "Amber"
 header-img: "img/post-bg-2017.jpg"
 tags:

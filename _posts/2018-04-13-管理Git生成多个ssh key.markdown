@@ -6,7 +6,7 @@ date:       2018-04-13
 author:     "Amber"
 header-img: "img/post-bg-2017.jpg"
 tags:
-    - git
+    - git ssh
     - 前端开发
 ---
 
